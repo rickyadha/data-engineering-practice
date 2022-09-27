@@ -1,7 +1,7 @@
 import requests
 import os
 
-path ='/home/syncopy/funlab/de/py/prct01/de-prct/Exercises/Exercise-1/download'
+path ='/home/syncopy/funlab/de/py/prct01/de-prct/Exercises/Exercise-01/download'
 
 check_path = os.path.exists(path)
 
